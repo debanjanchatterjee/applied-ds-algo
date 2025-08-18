@@ -40,7 +40,7 @@ def solve():
         degree[u] += 1
         degree[v] += 1
 
-    ans = max(degree) + 1
+    ans = max(degree) + 1 # min colors required is always max degree + 1, think how it is possible
     print(ans)
 
 
