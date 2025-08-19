@@ -17,13 +17,17 @@ Print **one integer**: the number of rooms.
 
 ## Sample Input 1
 
+```
 5 8
 ########
 #..#…#
 ####.#.#
 #..#…#
 ########
+```
 
 ## Sample Output 1
 
+```
 3
+```
