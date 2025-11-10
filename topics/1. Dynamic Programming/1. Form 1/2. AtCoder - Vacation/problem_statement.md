@@ -1,0 +1,1 @@
+[AtCoder DP C – Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)
